@@ -116,4 +116,4 @@ const vercelHandler = (req: NowRequest, res: NowResponse) => {
     })
 }
 
-export default handler
+export default netlifyHandler
